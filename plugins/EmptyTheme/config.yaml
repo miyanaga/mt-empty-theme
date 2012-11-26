@@ -1,0 +1,39 @@
+name: <__trans phrase="Empty Theme">
+id: EmptyTheme
+key: EmptyTheme
+author_name: Kunihiko Miyanaga
+author_link: http://www.ideamans.com/
+description: <__trans phrase="Provides empty themes has no templates and elements."
+version: 1.0
+
+themes:
+    empty_website:
+        id: empty_website
+        label: Empty Website
+        description: <__trans phrase="Website theme has no templates.">
+        author_name: Kunihiko Miyanaga
+        author_link: http://www.ideamans.com/
+        version: 1.0
+        class: website
+        l10n_lexicon:
+            ja:
+                'Website theme has no templates.': 'テンプレートを持たない空白のウェブサイトテーマです。'
+
+    empty_blog:
+        id: empty_blog
+        label: Empty Blog
+        description: <__trans phrase="Blog theme has no templates.">
+        author_name: Kunihiko Miyanaga
+        author_link: http://www.ideamans.com/
+        version: 1.0
+        class: blog
+        l10n_lexicon:
+            ja:
+                'Blog theme has no templates.': 'テンプレートを持たない空白のブログテーマです。'
+
+l10n_lexicon:
+    ja:
+        'Empty Theme': '空白のテーマ'
+        'Provides empty themes has no templates and elements.': 'テンプレートなどの要素を持たない空白のテーマを提供します。'
+        'Empty Website': '空白のウェブサイト'
+        'Empty Blog': '空白のブログ'
