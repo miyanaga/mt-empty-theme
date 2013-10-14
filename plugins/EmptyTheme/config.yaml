@@ -3,7 +3,7 @@ id: EmptyTheme
 key: EmptyTheme
 author_name: Kunihiko Miyanaga
 author_link: http://www.ideamans.com/
-description: <__trans phrase="Provides empty themes has no templates and elements."
+description: <__trans phrase="Provides empty themes has no templates and elements.">
 version: 1.0
 
 themes:
@@ -37,4 +37,3 @@ l10n_lexicon:
         Provides empty themes has no templates and elements.: 'テンプレートなどの要素を持たない空白のテーマを提供します。'
         Empty Website: '空白のウェブサイト'
         Empty Blog: '空白のブログ'
-
